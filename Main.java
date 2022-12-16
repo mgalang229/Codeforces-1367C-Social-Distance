@@ -28,13 +28,11 @@ from the right
 
 concept: nearest 1s (both left & right) for every 1
 
-check the existing 1s and the new 1s to be placed
-
 43210123456789 10 11 12 13
 --------------------------
 00001000001010  0  0  0  0
 
-i think its because of the new placement of 1s
+it's because of the new placement of 1s
 
 1
 13 3
